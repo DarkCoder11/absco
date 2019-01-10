@@ -35,35 +35,6 @@
 			<key>uniqueIdentifier</key>
 			<string>375569DF-E6B4-416B-8414-27935A1E8D39</string>
 		</dict>
-		<key>CD16A302-2525-46CB-A34F-94C70ACEC6F4</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CD16A302-2525-46CB-A34F-94C70ACEC6F4.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>absco project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>absco</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project absco with scheme absco and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>568767093.46373498</real>
-			<key>timeStoppedRecording</key>
-			<real>568767097.43197405</real>
-			<key>title</key>
-			<string>Building project absco with scheme absco and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>CD16A302-2525-46CB-A34F-94C70ACEC6F4</string>
-		</dict>
 	</dict>
 </dict>
 </plist>
