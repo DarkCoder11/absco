@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/shelllogix/Desktop/mynavigation/ios/absco/AppDelegate.m \
+  /Users/shelllogix/Desktop/mynavigation/ios/absco/AppDelegate.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Fabric.framework/Modules/module.modulemap \
+  /Users/shelllogix/Desktop/mynavigation/ios/Fabric.framework/Headers/FABAttributes.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Fabric.framework/Headers/Fabric.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Crashlytics.framework/Modules/module.modulemap \
+  /Users/shelllogix/Desktop/mynavigation/ios/Crashlytics.framework/Headers/ANSCompatibility.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Crashlytics.framework/Headers/Answers.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Crashlytics.framework/Headers/CLSStackFrame.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Crashlytics.framework/Headers/CLSReport.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Crashlytics.framework/Headers/CLSLogging.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Crashlytics.framework/Headers/CLSAttributes.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/Crashlytics.framework/Headers/Crashlytics.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
+  ../node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/shelllogix/Desktop/mynavigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
